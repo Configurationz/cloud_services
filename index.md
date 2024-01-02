@@ -1,6 +1,6 @@
-### Cloud providers native services and their naming conventions with respect to their competitors 
+### Cloud unicorns & their native services
 
-This document provides an overview of cloud provider's native services, naming conventions, and how they compare to their competitors.
+* This document provides an overview of cloud provider's native services, naming conventions, and how they compare to their competitors.
 
 |      Category        |                    AWS                    |             Azure               |               GCP                  |
 |:--------------------:|:-----------------------------------------:|:-------------------------------:|:----------------------------------:|
