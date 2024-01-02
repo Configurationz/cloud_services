@@ -32,14 +32,14 @@ This document provides an overview of cloud provider's native services, naming c
 
 ### References ~
 
-1. _**[AWS official documentation](https://docs.aws.amazon.com/){:target="_blank"}**_
+1. _**[AWS Documentation](https://docs.aws.amazon.com/){:target="_blank"}**_
 
 2. _**[Amazon Web Services - Documentation (GitHub)](https://github.com/awsdocs){:target="_blank"}**_
 
-3. _**[Azure official documentation](https://learn.microsoft.com/en-us/azure/?product=popular){:target="_blank"}**_
+3. _**[Azure documentation](https://learn.microsoft.com/en-us/azure/?product=popular){:target="_blank"}**_
 
-4. 3. _**[Azure portal documentation](https://learn.microsoft.com/en-us/azure/azure-portal/){:target="_blank"}**_
+4. _**[Azure portal documentation](https://learn.microsoft.com/en-us/azure/azure-portal/){:target="_blank"}**_
 
-5. _**[azure-docs (GitHub)](https://github.com/awsdocs){:target="_blank"}**_
+5. _**[azure-docs (GitHub)](https://github.com/MicrosoftDocs/azure-docs){:target="_blank"}**_
 
 6. _**[Google Cloud documentation](https://cloud.google.com/docs){:target="_blank"}**_
