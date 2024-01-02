@@ -38,8 +38,8 @@
 
 3. _**[Azure documentation](https://learn.microsoft.com/en-us/azure/?product=popular){:target="_blank"}**_
 
-4. _**[Azure portal documentation](https://learn.microsoft.com/en-us/azure/azure-portal/){:target="_blank"}**_
+4. _**[azure-docs (GitHub)](https://github.com/MicrosoftDocs/azure-docs){:target="_blank"}**_
 
-5. _**[azure-docs (GitHub)](https://github.com/MicrosoftDocs/azure-docs){:target="_blank"}**_
+5. _**[Azure portal documentation](https://learn.microsoft.com/en-us/azure/azure-portal/){:target="_blank"}**_
 
 6. _**[Google Cloud documentation](https://cloud.google.com/docs){:target="_blank"}**_
