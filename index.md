@@ -4,20 +4,20 @@ This document provides an overview of cloud provider's native services, naming c
 
 |      Category        |                    AWS                    |             Azure               |               GCP                  |
 |:--------------------:|:-----------------------------------------:|:-------------------------------:|:----------------------------------:|
-|                      |  Amazon EC2 (Elastic Compute Cloud)       |  Azure Virtual Machines         |  Google Compute Engine             |
-|  Compute Services    |  Amazon ECS (Elastic Container Service)   |  Azure Kubernetes Service (AKS) |  Google Kubernetess Engine(GKE)    |  
+|  Compute Services    |  Amazon EC2 (Elastic Compute Cloud)       |  Azure Virtual Machines         |  Google Compute Engine             |
+|                      |  Amazon ECS (Elastic Container Service)   |  Azure Kubernetes Service (AKS) |  Google Kubernetess Engine(GKE)    |  
 |                      |  AWS Lambda                               |  Azure Functions                |  Google Cloud Functions            |
-|                      |  Amazon S3 (Simple Storage Service)       |  Azure Blob Storage             |  Google Cloud Storage              |
-|  Storage Services    |  Amazon DynamoDB                          |  Azure Table Storage            |  Google Cloud Bigtable             |
+|  Storage Services    |  Amazon S3 (Simple Storage Service)       |  Azure Blob Storage             |  Google Cloud Storage              |
+|                      |  Amazon DynamoDB                          |  Azure Table Storage            |  Google Cloud Bigtable             |
 |                      |  Amazon EFS (Elastic File System)         |  Azure File Storage             |  Google Cloud Filestore            |
-|                      |  Amazon RDS (Relational Database Service) |  Azure SQL Database             |  Google Cloud SQL                  |
-|  Database Services   |  Amazon DynamoDB                          |  Azure Cosmos DB	             |  Google Cloud Firestore            |
+|  Database Services   |  Amazon RDS (Relational Database Service) |  Azure SQL Database             |  Google Cloud SQL                  |
+|                      |  Amazon DynamoDB                          |  Azure Cosmos DB	             |  Google Cloud Firestore            |
 |                      |  Amazon Aurora                            |  Azure Database for MySQL       |  Google Cloud Spanner              |
-|                      |  Amazon VPC (Virtual Private Cloud)       |  Azure Virtual Network          |  Google Cloud VPC                  |
-|  Networking          |  Amazon ELB (Elastic Load Balancer)       |  Azure Load Balancer	         |  Google Cloud Load Balancing       |
+|  Networking          |  Amazon VPC (Virtual Private Cloud)       |  Azure Virtual Network          |  Google Cloud VPC                  |
+|                      |  Amazon ELB (Elastic Load Balancer)       |  Azure Load Balancer	         |  Google Cloud Load Balancing       |
 |                      |  AWS VPN	                               |  Azure VPN Gateway	             |  Google Cloud VPN                  |
-|                      |  Amazon CloudWatch                        |  Azure Monitor	                 |  Google Cloud Monitoring & Logging |
-| Monitoring & Logging |  AWS CloudTrail	                       |  Azure Log Analytics            |  Google Cloud Operations Suite     |
+| Monitoring & Logging |  Amazon CloudWatch                        |  Azure Monitor	                 |  Google Cloud Monitoring & Logging |
+|                      |  AWS CloudTrail	                       |  Azure Log Analytics            |  Google Cloud Operations Suite     |
 |                      |  AWS X-Ray	                                
 | Identity & Access |  AWS Identity and Access Management (IAM)    |  Azure Active Directory (AD)    |  Google Cloud Identity & Access Management (IAM) |
 |                    |  AWS Key Management Service (KMS)         |  Azure Key Vault	               |  Google Cloud Key Management Service |
