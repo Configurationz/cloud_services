@@ -47,3 +47,5 @@
 7. _**[Azure Speed Test 2.0](https://azurespeedtest.azurewebsites.net/){:target="_blank"}**_
 
 8. _**[Google Cloud documentation](https://cloud.google.com/docs){:target="_blank"}**_
+
+9. _**[GCPing](https://gcping.com/){:target="_blank"}**_
