@@ -42,4 +42,6 @@
 
 5. _**[Azure portal documentation](https://learn.microsoft.com/en-us/azure/azure-portal/){:target="_blank"}**_
 
-6. _**[Google Cloud documentation](https://cloud.google.com/docs){:target="_blank"}**_
+6. _**[Azure Speed Test 2.0](https://azurespeedtest.azurewebsites.net/){:target="_blank"}**_
+
+7. _**[Google Cloud documentation](https://cloud.google.com/docs){:target="_blank"}**_
