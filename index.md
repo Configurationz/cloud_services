@@ -36,12 +36,14 @@
 
 2. _**[Amazon Web Services - Documentation (GitHub)](https://github.com/awsdocs){:target="_blank"}**_
 
-3. _**[Azure documentation](https://learn.microsoft.com/en-us/azure/?product=popular){:target="_blank"}**_
+3. _**[AWS Region Speed Test](http://awsspeedtest.xvf.dk/){:target="_blank"}**_
 
-4. _**[azure-docs (GitHub)](https://github.com/MicrosoftDocs/azure-docs){:target="_blank"}**_
+4. _**[Azure documentation](https://learn.microsoft.com/en-us/azure/?product=popular){:target="_blank"}**_
 
-5. _**[Azure portal documentation](https://learn.microsoft.com/en-us/azure/azure-portal/){:target="_blank"}**_
+5. _**[azure-docs (GitHub)](https://github.com/MicrosoftDocs/azure-docs){:target="_blank"}**_
 
-6. _**[Azure Speed Test 2.0](https://azurespeedtest.azurewebsites.net/){:target="_blank"}**_
+6. _**[Azure portal documentation](https://learn.microsoft.com/en-us/azure/azure-portal/){:target="_blank"}**_
 
-7. _**[Google Cloud documentation](https://cloud.google.com/docs){:target="_blank"}**_
+7. _**[Azure Speed Test 2.0](https://azurespeedtest.azurewebsites.net/){:target="_blank"}**_
+
+8. _**[Google Cloud documentation](https://cloud.google.com/docs){:target="_blank"}**_
